@@ -1,6 +1,7 @@
 Greetings! I’m Amogelang ,
 
 About Me
+
                                        Background & Journey
 
 I come from a background in Finance , a field far removed from technology. Taking the leap into tech was a bold choice—a leap of faith to explore what the world of cloud computing could offer me. This journey hasn’t been easy. Rewiring my thinking to approach problems like a tech professional, learning through self-study, and navigating unfamiliar concepts tested my patience and perseverance.
@@ -24,12 +25,15 @@ Professional skills in teamwork, technical communication, and presentation.
 
 This intensive program equipped me with both technical expertise and a client-focused approach, preparing me to start my career as a cloud professional and grow within the tech industry, exploring opportunities to apply cloud technologies to real-world challenges.
 
-                                       Skills & Technologies
+                                      
+                                      Skills & Technologies
+                                      
 AWS & Cloud Skills:
 Core Services: EC2, S3, RDS, VPC, IAM, CloudFormation
 Key Concepts: Scalability, Security, Cost Optimization, Infrastructure as Code
 
                                        Soft Skills:
+                                       
 Customer Focus
 Problem-Solving
 Effective Communication
