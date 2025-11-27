@@ -1,6 +1,7 @@
 Greetings! I’m Amogelang ,
 
-About Me
+
+   About Me
 
                                        Background & Journey
 
