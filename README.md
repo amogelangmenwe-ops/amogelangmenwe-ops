@@ -1,6 +1,8 @@
                                                  Hi there! I’m Amogelang 😄,
                                 This repo showcases my journey through the AWS Restart program 🎓, 
                          including projects that cover cloud servers ⚙️, storage 📦, and database management 🗄️
+
+                         
      <img width="300" height="168" alt="images (2)" src="https://github.com/user-attachments/assets/84ae7272-185d-4b7d-94a2-5a72151bddcc" />
 
                
