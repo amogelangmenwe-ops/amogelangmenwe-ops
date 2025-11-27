@@ -18,10 +18,15 @@ This passion drives my continuous learning and motivates me to grow within the t
                                      AWS re/Start Journey
 
 Through the AWS re/Start program, I gained:
+
 A strong foundation in core AWS services and how they interconnect.
+
 Hands-on experience building projects using EC2, S3, RDS, VPC, IAM, CloudFormation, and more.
+
 Knowledge of cloud best practices in security, cost optimization, and operational excellence.
+
 Problem-solving strategies tailored for cloud environments.
+
 Professional skills in teamwork, technical communication, and presentation.
 
 This intensive program equipped me with both technical expertise and a client-focused approach, preparing me to start my career as a cloud professional and grow within the tech industry, exploring opportunities to apply cloud technologies to real-world challenges.
@@ -30,14 +35,19 @@ This intensive program equipped me with both technical expertise and a client-fo
                                       Skills & Technologies
                                       
 AWS & Cloud Skills:
+
 Core Services: EC2, S3, RDS, VPC, IAM, CloudFormation
+
 Key Concepts: Scalability, Security, Cost Optimization, Infrastructure as Code
 
                                        Soft Skills:
                                        
 Customer Focus
+
 Problem-Solving
+
 Effective Communication
+
 Presentation Skills
 
 
