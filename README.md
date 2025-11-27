@@ -2,6 +2,8 @@
                                 This repo showcases my journey through the AWS Restart program 🎓, 
                          including projects that cover cloud servers ⚙️, storage 📦, and database management 🗄️
 
+                 <img width="469" height="145" alt="image" src="https://github.com/user-attachments/assets/fe52fdd1-8e2f-4085-bd7e-ce30a08325b2" />
+
 
    About Me
 
