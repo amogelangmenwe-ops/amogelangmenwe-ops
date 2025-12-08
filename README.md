@@ -79,8 +79,6 @@ Presentation Skills
 -I’m excited about the journey ahead as I step into the world of cloud computing. Every challenge, project, and new skill learned brings me closer to my goal. I am ready to contribute, learn, and grow, leveraging my unique blend of business understanding, technical skills, and passion for cloud solutions.
 
 
-<img width="668" height="474" alt="518999134-5dcff794-2e3a-4346-8bc0-ed82ec57a5a3" src="https://github.com/user-attachments/assets/d29c0496-5725-44d3-8c7b-d960d9463db8" />
 
-<img width="665" height="466" alt="518999783-abc6f92b-f7df-4bd2-8bc7-28cc84ef17d8" src="https://github.com/user-attachments/assets/f63a0286-f7f5-4662-9093-6ed455405ad0" />
 
 
